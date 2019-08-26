@@ -3,8 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
-
+    Anastasios Gialamoudis anasgial anasgial
 # THANKS
 
     <name>
