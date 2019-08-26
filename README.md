@@ -7,6 +7,4 @@ more changes
 Sample website with plenty of files for demos.
 
 ## Copyright
-
-simple copyright notice.
-adding for rebase
+All rights reserved
