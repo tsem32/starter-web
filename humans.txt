@@ -6,7 +6,7 @@
     Anastasios Gialamoudis anasgial anasgial
 # THANKS
 
-    <name>
+    To me
 
 # TECHNOLOGY COLOPHON
 
